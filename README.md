@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi there!</h2> 
 <p>I'm Vishal Singh, a passionate learner from India, currently exploring the fascinating world of Data Science.</p>
 
-##🚀 About Me  
+<h2>🚀 About Me</h2>  
    - 🌱 I’m currently learning Data Science and Machine Learning and AI.
    - 👯 I’m looking to collaborate on data science projects.
    - 🤔 I’m looking for help with advanced machine learning techniques.
@@ -9,7 +9,7 @@
    - 📫 How to reach me: vishalchaudhary68981@gmail.com
    - ⚡ Fun fact: I love solving puzzles and playing chess.
 
-##🛠️ Skills
+<h2>🛠️ Skills</h2>
 - *Programming Languages:* Python, Javascript
 - *Data Analysis:* Pandas, NumPy, Scikit-Learn
 - *Data Visualization:* Matplotlib, Seaborn, Plotly
