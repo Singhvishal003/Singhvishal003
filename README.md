@@ -1,21 +1,26 @@
-<h2 align="left">👋 Hi there! I'm Vishal Singh, a passionate learner from India, currently exploring the fascinating world of Data Science.</h2>
-<div>
-  <h2 align='left>## 🚀 About Me </h2>
-      - 🌱 I’m currently learning Data Science and Machine Learning.
-      - 👯 I’m looking to collaborate on data science projects.
-      - 🤔 I’m looking for help with advanced machine learning techniques.
-      - 💬 Ask me about Python, data analysis, and visualization.
-      - 📫 How to reach me: Your Email
-      - ⚡ Fun fact: I love solving puzzles and playing chess.
-</div>
-<div>
+<h2 align="left">👋 Hi there!</h2> 
+<p>I'm Vishal Singh, a passionate learner from India, currently exploring the fascinating world of Data Science.</p>
+
+<h2 align='left>## 🚀 About Me </h2>
+  <p>
+  - 🌱 I’m currently learning Data Science and Machine Learning.
+  - 👯 I’m looking to collaborate on data science projects.
+  - 🤔 I’m looking for help with advanced machine learning techniques.
+  - 💬 Ask me about Python, data analysis, and visualization.
+  - 📫 How to reach me: Your Email
+  - ⚡ Fun fact: I love solving puzzles and playing chess.
+  </p>
+  
   <h2 align='left>##🛠️ Skills </h2>
-  - *Programming Languages:* Python, Javascript
-  - *Data Analysis:* Pandas, NumPy, Scikit-Learn
-  - *Data Visualization:* Matplotlib, Seaborn, Plotly
-  - *Machine Learning:* Scikit-Learn, TensorFlow, Keras
-  - *Databases:* SQL, MongoDB
-</div>
+  <p>
+    - *Programming Languages:* Python, Javascript
+    - *Data Analysis:* Pandas, NumPy, Scikit-Learn
+    - *Data Visualization:* Matplotlib, Seaborn, Plotly
+    - *Machine Learning:* Scikit-Learn, TensorFlow, Keras
+    - *Databases:* SQL, MongoDB
+  </p>
+   
+    
 ###
 
 <div align="center">
