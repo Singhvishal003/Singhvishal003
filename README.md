@@ -1,6 +1,8 @@
 <h2 align="left">👋 Hi there!</h2> 
 <p>I'm Vishal Singh, a passionate learner from India, currently exploring the fascinating world of Data Science.</p>
 
+###
+
 <h2>🚀 About Me</h2>  
    - 🌱 I’m currently learning Data Science and Machine Learning and AI.
    - 👯 I’m looking to collaborate on data science projects.
@@ -8,6 +10,8 @@
    - 💬 Ask me about Python, data analysis, and visualization.
    - 📫 How to reach me: vishalchaudhary68981@gmail.com
    - ⚡ Fun fact: I love solving puzzles and playing chess.
+
+###
 
 <h2>🛠️ Skills</h2>
 - *Programming Languages:* Python, Javascript
@@ -65,7 +69,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+  <a href="https://profiles.google.com/vishalchaudhary68981@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vishal-singh-474799293" target="_blank">
@@ -75,9 +79,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/singhvishal003/singhvishal003/output/snake.svg" alt="Snake animation" />
 
 ###
