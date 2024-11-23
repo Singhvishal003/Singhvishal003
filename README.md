@@ -1,6 +1,22 @@
 <h2 align="left">👋 Hi there!</h2>
 <p>I'm Vishal Singh, a passionate learner from India, currently exploring the fascinating world of Data Science.</p>
 
+<h2>🚀 About Me</h2>
+<pre>- 🌱 I’m currently learning Data Science and Machine Learning.
+- 👯 I’m looking to collaborate on data science projects.
+- 🤔 I’m looking for help with advanced machine learning techniques.
+- 💬 Ask me about Python, data analysis, and visualization.
+- 📫 How to reach me: vishalchaudhary68981@gmail.com
+- ⚡ Fun fact: I love solving puzzles and playing chess.
+</pre>
+<h2>🛠️ Skills</h2>
+<pre>- *Programming Languages:* Python, Javascript
+- *Data Analysis:* Pandas, NumPy, Scikit-Learn
+- *Data Visualization:* Matplotlib, Seaborn, Plotly
+- *Machine Learning:* Scikit-Learn, TensorFlow, Keras
+- *Databases:* SQL, MongoDB
+</pre>
+
 ###
 
 <div align="center">
@@ -10,7 +26,7 @@
 
 ###
 
-<img align="right" height="170" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"  />
 
 ###
 
@@ -59,11 +75,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/singhvishal003/singhvishal003/output/snake.svg" alt="Snake animation" />
 
 ###
