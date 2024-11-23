@@ -1,14 +1,14 @@
 <h2 align="left">👋 Hi there! I'm Vishal Singh, a passionate learner from India, currently exploring the fascinating world of Data Science.</h2>
-## 🚀 About Me
+<h2 align='left>## 🚀 About Me </h2>
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on data science projects.
 - 🤔 I’m looking for help with advanced machine learning techniques.
 - 💬 Ask me about Python, data analysis, and visualization.
 - 📫 How to reach me: Your Email
 - ⚡ Fun fact: I love solving puzzles and playing chess.
-
-## 🛠️ Skills
-- *Programming Languages:* Python, JavaScript
+  
+  <h2 align='left>##🛠️ Skills </h2>
+  - *Programming Languages:* Python, Javascript
 - *Data Analysis:* Pandas, NumPy, Scikit-Learn
 - *Data Visualization:* Matplotlib, Seaborn, Plotly
 - *Machine Learning:* Scikit-Learn, TensorFlow, Keras
@@ -62,14 +62,14 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="vishalchaudhary68981@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/singhvishal003/singhvishal003/output/snake.svg" alt="Snake animation" />
 
