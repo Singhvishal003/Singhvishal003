@@ -2,7 +2,7 @@
 <p>I'm Vishal Singh, a passionate learner from India, currently exploring the fascinating world of Data Science.</p>
 
 <h2>🚀 About Me</h2>
-<pre>- 🌱 I’m currently learning Data Science and Machine Learning.
+<pre>- 🌱 I’m currently learning Data Science and Machine Learning and AI.
 - 👯 I’m looking to collaborate on data science projects.
 - 🤔 I’m looking for help with advanced machine learning techniques.
 - 💬 Ask me about Python, data analysis, and visualization.
