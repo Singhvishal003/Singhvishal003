@@ -12,7 +12,7 @@
 <h2>🛠️ Skills</h2>
 <pre>- *Programming Languages:* Python, Javascript
 - *Data Analysis:* Pandas, NumPy, Scikit-Learn
-- *Data Visualization:* Matplotlib, Seaborn, Plotly
+- *Data Visualization:* Matplotlib, Seaborn, Plotly 
 - *Machine Learning:* Scikit-Learn, TensorFlow, Keras
 - *Databases:* SQL, MongoDB
 </pre>
